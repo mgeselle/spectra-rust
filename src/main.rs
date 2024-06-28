@@ -1,3 +1,4 @@
+// Spectra main - not much to see here yet...
 use spectra::fits::open;
 
 fn main() {
